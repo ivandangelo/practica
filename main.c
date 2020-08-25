@@ -4,6 +4,9 @@
 
 int main(){
 	
-
+	
+	PosONeg();
 	return 0;
+	
+	
 }

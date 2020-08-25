@@ -1,18 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 
 void PosONeg(){
-	double i;
+
+    double i;
+	i=0;
 	
 	printf("ingrese un numero: ");
-	scanf("%d",i);
+	scanf("%d",&i);
 	
-	if((-1)*i == i){
+	if( fabs(i) == i){
+		(i==0) ? (printf("es cero\n")) : (printf("es positivo\n"));
 		
-		(i==0) ? (printf("%d es cero\n",i)) : (printf("%d es positivo\n",i));
 		
-		
+	}
+	else{
+		printf("es negativo");
 		
 	}
 	
