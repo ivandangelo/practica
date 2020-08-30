@@ -5,7 +5,7 @@
 int main(){
 	
 	
-	PosONeg();
+    impr_mult();
 	return 0;
 	
 	
