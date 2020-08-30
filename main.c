@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    detectarMayorYMenor();
+    operarEnRango();
 	return 0;
 	
 	

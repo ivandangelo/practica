@@ -28,8 +28,8 @@ Folders=src
 IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
-CompilerSettings=0000000000000000100000000
-UnitCount=12
+CompilerSettings=0000000000000000101000000
+UnitCount=15
 
 [VersionInfo]
 Major=1
@@ -162,6 +162,36 @@ BuildCmd=
 
 [Unit12]
 FileName=src\11).c
+CompileCpp=0
+Folder=src
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit13]
+FileName=src\12).c
+CompileCpp=0
+Folder=src
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit14]
+FileName=src\13).c
+CompileCpp=0
+Folder=src
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit15]
+FileName=src\14).c
 CompileCpp=0
 Folder=src
 Compile=1
