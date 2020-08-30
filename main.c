@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    mult2_3();
+    detectarMayorYMenor();
 	return 0;
 	
 	
