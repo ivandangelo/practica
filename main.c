@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    sum_imp();
+    mult2_3();
 	return 0;
 	
 	
