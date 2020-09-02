@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    intercambiar();
+    comparar_nums();
 	return 0;
 	
 	
