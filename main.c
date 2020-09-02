@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    productoOSuma();
+    cal_porcentaje();
 	return 0;
 	
 	
