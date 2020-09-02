@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    operarEnRango();
+    intercambiar();
 	return 0;
 	
 	
