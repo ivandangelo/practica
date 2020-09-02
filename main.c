@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    comparar_nums();
+    operaciones();
 	return 0;
 	
 	
