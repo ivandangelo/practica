@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    operaciones();
+    productoOSuma();
 	return 0;
 	
 	
