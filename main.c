@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    cal_porcentaje();
+   	verificarAcceso();
 	return 0;
 	
 	
