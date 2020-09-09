@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   	verificarClave();
+   	esBisiesto();
 	return 0;
 	
 	
