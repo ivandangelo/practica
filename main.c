@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   	esBisiesto();
+   	calcularNota();
 	return 0;
 	
 	
