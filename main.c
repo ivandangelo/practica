@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   	verificarAcceso();
+   	realizarCuadrado();
 	return 0;
 	
 	
