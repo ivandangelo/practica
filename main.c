@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   	realizarCuadrado();
+   	obtenerMedia();
 	return 0;
 	
 	
