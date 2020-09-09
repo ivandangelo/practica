@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   	obtenerMedia();
+   	verificarClave();
 	return 0;
 	
 	
