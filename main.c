@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   	calcularNota();
+    clasificarNumero();
 	return 0;
 	
 	

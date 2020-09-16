@@ -11,7 +11,7 @@ void PosONeg(){
 	printf("ingrese un numero: ");
 	scanf("%d",&i);
 	
-	if( fabs(i) == i){
+	if( abs(i) == i){
 		(i==0) ? (printf("es cero\n")) : (printf("es positivo\n"));
 		
 		
