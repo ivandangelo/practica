@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    estaEnRango();
+    cocienteYResto();
 	return 0;
 	
 	
