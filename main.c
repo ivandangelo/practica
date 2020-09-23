@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    clasificarNumero();
+    areaCilindro();
 	return 0;
 	
 	
