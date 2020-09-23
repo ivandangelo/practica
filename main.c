@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    cocienteYResto();
+    calcularTiempo();
 	return 0;
 	
 	
