@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    calculartiempo();
+    costoLlamada();
 	return 0;
 	
 	
