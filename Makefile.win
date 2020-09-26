@@ -4,8 +4,8 @@
 CPP      = g++.exe -D__DEBUG__
 CC       = gcc.exe -D__DEBUG__
 WINDRES  = windres.exe
-OBJ      = src/1).o src/2).o src/3).o src/4).o src/5).o src/6).o src/7).o src/8).o src/9).o main.o src/10).o src/11).o src/12).o src/13).o src/14).o src/15).o src/16).o src/17).o src/18).o src/19).o src/20).o src/21).o src/22).o src/23).o src/24).o src/25).o src/26).o src/27).o src/28).o src/29).o src/30).o src/31).o src/32).o src/33).o src/34).o src/35).o src/36).o src/37).o src/38.o
-LINKOBJ  = src/1).o src/2).o src/3).o src/4).o src/5).o src/6).o src/7).o src/8).o src/9).o main.o src/10).o src/11).o src/12).o src/13).o src/14).o src/15).o src/16).o src/17).o src/18).o src/19).o src/20).o src/21).o src/22).o src/23).o src/24).o src/25).o src/26).o src/27).o src/28).o src/29).o src/30).o src/31).o src/32).o src/33).o src/34).o src/35).o src/36).o src/37).o src/38.o
+OBJ      = src/1).o src/2).o src/3).o src/4).o src/5).o src/6).o src/7).o src/8).o src/9).o main.o src/10).o src/11).o src/12).o src/13).o src/14).o src/15).o src/16).o src/17).o src/18).o src/19).o src/20).o src/21).o src/22).o src/23).o src/24).o src/25).o src/26).o src/27).o src/28).o src/29).o src/30).o src/31).o src/32).o src/33).o src/34).o src/35).o src/36).o src/37).o src/38.o src/39).o
+LINKOBJ  = src/1).o src/2).o src/3).o src/4).o src/5).o src/6).o src/7).o src/8).o src/9).o main.o src/10).o src/11).o src/12).o src/13).o src/14).o src/15).o src/16).o src/17).o src/18).o src/19).o src/20).o src/21).o src/22).o src/23).o src/24).o src/25).o src/26).o src/27).o src/28).o src/29).o src/30).o src/31).o src/32).o src/33).o src/34).o src/35).o src/36).o src/37).o src/38.o src/39).o
 LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -L"C:/Users/ivaance/Desktop/Cosas en general/Estudios/Analista ITOUM/EDI 1/tp/TEMA1/dev+" -pg -g3
 INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
 CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
@@ -140,3 +140,6 @@ src/37).o: src/37).c
 
 src/38.o: src/38.c
 	$(CC) -c src/38.c -o src/38.o $(CFLAGS)
+
+src/39).o: src/39).c
+	$(CC) -c src/39).c -o src/39).o $(CFLAGS)

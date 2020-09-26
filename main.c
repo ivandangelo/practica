@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    calcularPago();
+    calculartiempo();
 	return 0;
 	
 	
