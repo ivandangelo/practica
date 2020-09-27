@@ -163,4 +163,57 @@ laboral o no.
 
 ![img](/imgs/31.png)
 - - -
+>32.-Realizar un DFD que permita pedir 50 números naturales y determine e
+Imprima cuantos son pares, impares, positivos y negativos.
+
+![img](/imgs/32.png)
+- - -
+>33.-Desarrolla un DFD que permita determinar el área y volumen de un cilindro
+dado su radio (R) y Altura (H).
+
+![img](/imgs/33.png)
+- - -
+>34.-Conocer si un número ‘n’ está en el rango de 0 a 10 con mensaje de
+Correcto/Error.
+
+![img](/imgs/34.png)
+- - -
+>35.-Calcular el cociente y residuo (resto) de la división de dos números A y B.
+
+![img](/imgs/35.png)
+- - -
+>36.-Determinar el tiempo transcurrido entre dos horas del día.
+
+![img](/imgs/36.png)
+- - -
+>37.-Una empresa constructora vende terrenos con la forma A de la figura 2.2.
+Realice un algoritmo y represéntelo mediante un diagrama de flujo y el
+pseudocódigo para obtener el área respectiva de un terreno de medidas de
+cualquier valor.
+Para resolver este problema se debe identificar que la forma A está compuesta
+por dos figuras: un triángulo de base B y de altura (A - C); y, por otro lado, un
+rectángulo que tiene base B y altura C. Con estas consideraciones se puede
+establecer la tabla 2.6 con las variables que se requieren para implementar el
+algoritmo de solución.
+
+![img](/imgs/37.png)
+- - -
+>38.-Se requiere determinar el pago que debe realizar una persona por el total de
+metros cúbicos que consume de agua al llenar una pileta (ver figura 2.5). Realice
+un DFD que permita determinar ese pago. Las variables requeridas para la
+solución de este problema se muestran en la tabla 2.12.
+
+![img](/imgs/38.png)
+- - -
+>39.-Realice un DFD que representen el algoritmo para determinar
+aproximadamente cuántos meses, semanas, días y horas ha vivido una persona.
+
+![img](/imgs/39.png)
+- - -
+>40.-Se requiere un algoritmo para determinar el costo que tendrá realizar una
+llamada telefónica con base en el tiempo que dura la llamada y en el costo por
+minuto.
+
+![img](/imgs/40.png)
+- - -
 
