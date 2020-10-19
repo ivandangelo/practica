@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    costoLlamada();
+    costoLapices();
 	return 0;
 	
 	

@@ -15,11 +15,11 @@ Algoritmo costoLapices
 	FinMientras
 	
 	Si cantL<1000 Entonces
-		costoL=1.10*CantL;
+		costoL=1.10*cantL;
 		Escribir "El precio es: ",costoL," y no se aplico descuento";
 		
 	SiNo
-		costoL=0.90*CantL;
+		costoL=0.90*cantL;
 		Escribir "El precio es: ",costoL," y se aplico descuento";
 
 	FinSi
