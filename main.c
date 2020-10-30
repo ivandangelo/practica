@@ -5,7 +5,7 @@
 int main(){
 	
 	
-    costoLapices();
+   costoViaje();
 	return 0;
 	
 	
