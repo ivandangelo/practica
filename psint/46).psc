@@ -1,5 +1,5 @@
 Algoritmo costoDeLlamada
-	//46.- La política de la compañía telefónica “chimefón” es: “Chismea + x -”.
+	//46.- La política de la compañía telefónica "chimefón" es: "Chismea + x -".
 	//Cuando se realiza una llamada, el cobro es por el tiempo que ésta dura, de tal
 	//forma que los primeros cinco minutos cuestan $ 1.00 c/u, los siguientes tres, 80¢
 	//c/u, los siguientes dos minutos, 70¢ c/u, y a partir del décimo minuto, 50¢ c/u.

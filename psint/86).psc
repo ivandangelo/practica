@@ -39,7 +39,7 @@ SubProceso pasarA1Fila(matriz Por Referencia,matriz2 Por Referencia, filas Por V
 FinSubProceso
 //matriz2 Por Referencia, largo Por valor
 SubProceso ordenar(matriz2 Por Referencia, largo Por valor)
-	Definir i,j,val Como Entero;
+	Definir intervalo,i,valorAInsertar,posicionActual Como Entero;
 	Para i=1 Hasta largo-1 Con Paso 1 Hacer
 		val=matriz2[i];
 		j=i-1;

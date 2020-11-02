@@ -1,8 +1,8 @@
 Algoritmo montoTratamiento
 	//49.- El consultorio del Dr. Lorenzo T. Mata Lozano tiene como política cobrar la
-	//consulta con base en el número de cita, de la siguiente forma: • Las tres
-	//primeras citas a $200.00 c/u. • Las siguientes dos citas a $150.00 c/u. • Las tres
-	//siguientes citas a $100.00 c/u. • Las restantes a $50.00 c/u, mientras dure el
+	//consulta con base en el número de cita, de la siguiente forma: - Las tres
+	//primeras citas a $200.00 c/u. - Las siguientes dos citas a $150.00 c/u. - Las tres
+	//siguientes citas a $100.00 c/u. - Las restantes a $50.00 c/u, mientras dure el
 	//tratamiento. Se requiere un DFD para determinar: a) Cuánto pagará el paciente
 	//por la cita. b) El monto de lo que ha pagado el paciente por el tratamiento. Para
 	//la solución de este problema se requiere saber qué número de cita se efectuará,

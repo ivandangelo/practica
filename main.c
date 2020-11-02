@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   costoViaje();
+   montoTratamiento();
 	return 0;
 	
 	

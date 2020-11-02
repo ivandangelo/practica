@@ -1,6 +1,6 @@
-Algoritmo preciPorHamburgesas
+Algoritmo precioPorHamburgesas
 	
-	//48.- “El CRUSTACEO CASCARUDO” ofrece hamburguesas sencillas, dobles y
+	//48.- "El CRUSTACEO CASCARUDO" ofrece hamburguesas sencillas, dobles y
 	//triples, las cuales tienen un costo de $20.00, $25.00 y $28.00 respectivamente. La
 	//empresa acepta tarjetas de crédito con un cargo de 5 % sobre la compra.
 	//Suponiendo que los clientes adquieren sólo un tipo de hamburguesa, realice un
