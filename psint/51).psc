@@ -20,7 +20,7 @@ Algoritmo administrarAhorros
 	Para i=0 Hasta 11 Con Paso 1 Hacer
 		Escribir "ingrese lo que ahorro en el mes actual";
 		Leer ahorradoEnElMes[i];
-		ahorradoEnElAnio=ahorradOEnElANio+ahorradoEnElMes[i];
+		ahorradoEnElAnio=ahorradOEnElAnio+ahorradoEnElMes[i];
 		
 	FinPara
 	

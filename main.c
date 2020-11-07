@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   montoTratamiento();
+   clasificarVentas();
 	return 0;
 	
 	
