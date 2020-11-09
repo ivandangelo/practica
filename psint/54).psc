@@ -1,5 +1,5 @@
 Algoritmo calcularPagoHam
-	//54.- “El náufrago satisfecho” ofrece hamburguesas sencillas (S), dobles (D) y
+	//54.- "El náufrago satisfecho" ofrece hamburguesas sencillas (S), dobles (D) y
 	//triples (T), las cuales tienen un costo de $20, $25 y $28 respectivamente. La
 	//empresa acepta tarjetas de crédito con un cargo de 5 % sobre la compra.
 	//Suponiendo que los clientes adquieren N hamburguesas, las cuales pueden
@@ -35,7 +35,7 @@ Algoritmo calcularPagoHam
 	
 	Si usaTarjeta=='S' Entonces
 		tot=preUn*cantHamb;
-		tot=tot-(tot*0.05);
+		tot=tot+(tot*0.05);
 	SiNo Si usaTarjeta=='N' Entonces
 			tot=preUn*cantHamb;
 			

@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   clasificarVentas();
+   fraseEspacios();
 	return 0;
 	
 	
