@@ -4,7 +4,7 @@ Algoritmo calcularPromEdades
 	//promedio de cada uno de los M salones y cuál es la edad promedio de toda
 	//la escuela. Realice un DFD para determinar estos promedios.
 	Definir nroSalones,i,j,alumnosEnElSalon,edadAlumno,sumEdadSalon,totAlumnos,totEdades Como Entero;
-	Definir promTot,promSalon Como Real;
+	Definir promSalon,promTot Como Real;
 	
 	nroSalones=0;
 	alumnosEnElSalon=0;
@@ -13,6 +13,8 @@ Algoritmo calcularPromEdades
 	promSalon=0;
 	totAlumnos=0;
 	promTot=0;
+	totEdades=0;
+	
 
 	Escribir "ingrese el numero de salones";
 	Leer nroSalones;
@@ -30,14 +32,14 @@ Algoritmo calcularPromEdades
 		FinPara
 		
 		promSalon=sumEdadSalon/alumnosEnElSalon;
-		promTot=promTot+promSalon;
+		totEdades=totEdades+sumEdadSalon;
 		Escribir "Para el salon nro ",i+1," que cuenta con ",alumnosEnElSalon," alumnos el promedio es ",promSalon;
 		sumEdadSalon=0;
 		promSalon=0;
 		
 	FinPara
 	
-	promTot=promTot/totAlumnos;
+	promTot=totEdades/totAlumnos;
 	Escribir "el promedio de edades de la escuela ITUOM es :",promTot;
 	
 	

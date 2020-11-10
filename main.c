@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   fraseEspacios();
+   pasarRomano();
 	return 0;
 	
 	
