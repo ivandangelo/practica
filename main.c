@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   pasarRomano();
+   operarElNumero();
 	return 0;
 	
 	

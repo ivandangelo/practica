@@ -12,7 +12,6 @@ void fraseEspacios(){
 	printf("ingrese la frase ");
 	//scanf("%[^\n]",&s1);
 	gets(s1);
-
 	for (i=0; i<5; i++){
 	    for(j=0; j<i; j++){
 	        printf("    ");
