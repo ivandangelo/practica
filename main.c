@@ -5,7 +5,7 @@
 int main(){
 	
 	
-   operarElNumero();
+   ordenarShell();
 	return 0;
 	
 	
