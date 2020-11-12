@@ -266,5 +266,276 @@ tabla 3.8.
 
 ![img](/imgs/45.png)
 - - -
+>46.- La política de la compañía telefónica "chimefón" es: "Chismea + x -".
+Cuando se realiza una llamada, el cobro es por el tiempo que ésta dura, de tal
+forma que los primeros cinco minutos cuestan $ 1.00 c/u, los siguientes tres, 80¢
+c/u, los siguientes dos minutos, 70¢ c/u, y a partir del décimo minuto, 50¢ c/u.
+Además, se carga un impuesto de 3 % cuando es domingo, y si es día hábil, en
+turno matutino, 15 %, y en turno vespertino, 10 %. Realice un algoritmo para
+determinar cuánto debe pagar por cada concepto una persona que realiza una
+llamada. Al analizar el problema se puede identificar que será necesario conocer
+como datos la duración de la llamada, así como el día y turno en que se realiza.
+Con base en esto se podrá determinar cuál será el pago que se efectuará por el
+tiempo que dura la llamada y el impuesto que deberá pagar en función del día y
+del turno en que se realiza. La tabla 3.9 muestra las variables que se van a
+utilizar.
+
+![img](/imgs/46.png)
+- - -
+>47.- Una compañía de viajes cuenta con tres tipos de autobuses (A, B y C), cada
+uno tiene un precio por kilómetro recorrido por persona, los costos respectivos
+son $2.0, $2.5 y $3.0. Se requiere determinar el costo total y por persona del viaje
+considerando que cuando éste se presupuesta debe haber un mínimo de 20
+personas, de lo contrario el cobro se realiza con base en este número límite. Con
+la información correspondiente se puede establecer las variables que se van a
+utilizar, las cuales se muestran en la tabla 3.10.
+
+![img](/imgs/47.png)
+- - -
+>48.- "El CRUSTACEO CASCARUDO" ofrece hamburguesas sencillas, dobles y
+triples, las cuales tienen un costo de $20.00, $25.00 y $28.00 respectivamente. La
+empresa acepta tarjetas de crédito con un cargo de 5 % sobre la compra.
+Suponiendo que los clientes adquieren sólo un tipo de hamburguesa, realice un
+DFD para determinar cuánto debe pagar una persona por N hamburguesas. En la
+tabla 3.11 se muestran las variables que se requieren utilizar en el algoritmo para
+la solución del problema.
+
+![img](/imgs/48.png)
+- - -
+>49.- El consultorio del Dr. Lorenzo T. Mata Lozano tiene como política cobrar la
+consulta con base en el número de cita, de la siguiente forma: • Las tres
+primeras citas a $200.00 c/u. • Las siguientes dos citas a $150.00 c/u. • Las tres
+siguientes citas a $100.00 c/u. • Las restantes a $50.00 c/u, mientras dure el
+tratamiento. Se requiere un DFD para determinar: a) Cuánto pagará el paciente
+por la cita. b) El monto de lo que ha pagado el paciente por el tratamiento. Para
+la solución de este problema se requiere saber qué número de cita se efectuará,
+con el cual se podrá determinar el costo que tendrá la consulta y cuánto se ha
+gastado en el tratamiento. Con este análisis se puede determinar que las
+variables que se van a utilizar son las que se muestran en la tabla 3.12.
+
+![img](/imgs/49.png)
+- - -
+>50.- Se requiere un DFD para obtener la estatura promedio de un grupo de
+personas, cuyo número de miembros se desconoce, el ciclo debe efectuarse
+siempre y cuando se tenga una estatura registrada. Realice el diagrama de flujo,
+el pseudocódigo y el diagrama N/S para representarlo, utilizando el ciclo
+apropiado. Como se puede ver, para resolver este problema no se puede utilizar
+el ciclo PARA, ya que no se tiene el número de personas exacto, que es lo que
+en un momento determinaría el número de veces que el proceso que se
+encuentra dentro del ciclo se ejecute, para este caso es necesario contar al
+menos con la estatura de una persona (para que tenga caso realizar el proceso
+del ciclo. El ciclo que es apropiado para utilizar en la solución de este problema
+es Mientras, ya que este ciclo se realiza siempre y cuando se cuente con una
+estatura mayor a cero, de una manera natural sin forzar el proceso en ningún
+momento, y en caso de que no se tenga estatura registrada el promedio es cero,
+y se debe indicar que no existe ninguna estatura registrada. La tabla 4.3 muestra
+las variables que se van a utilizar para la solución de este problema.
+
+![img](/imgs/50.png)
+- - -
+>51.- Se requiere un DFD para determinar cuánto ahorrará una persona en un año,
+si al final de cada mes deposita variables cantidades de dinero; además, se
+requiere saber cuánto lleva ahorrado cada mes. La tabla 4.4 muestra las
+variables que se requieren para plantear la solución del problema.
+
+![img](/imgs/51.png)
+- - -
+>52.- Un empleado de la tienda "Tiki Taka" realiza N ventas durante el día, se
+requiere saber cuántas de ellas fueron mayores a $1000, cuántas fueron
+mayores a $500 pero menores o iguales a $1000, y cuántas fueron menores o
+iguales a $500. Además, se requiere saber el monto de lo vendido en cada
+categoría y de forma global. Realice un DFD que permita determinar lo
+anterior. La tabla 4.11 muestra las variables requeridas.
+
+![img](/imgs/52.png)
+- - -
+>53.- Un profesor tiene un salario inicial de $1500, y recibe un incremento de
+10 % anual durante 6 años. ¿Cuál es su salario al cabo de 6 años? ¿Qué
+salario ha recibido en cada uno de los 6 años?
+
+![img](/imgs/53.png)
+- - -
+>54.- "El náufrago satisfecho" ofrece hamburguesas sencillas (S), dobles (D) y
+triples (T), las cuales tienen un costo de $20, $25 y $28 respectivamente. La
+empresa acepta tarjetas de crédito con un cargo de 5 % sobre la compra.
+Suponiendo que los clientes adquieren N hamburguesas, las cuales pueden
+ser de diferente tipo.
+
+![img](/imgs/54.png)
+- - -
+>55.-Se requiere un algoritmo para determinar, de N cantidades, cuántas son
+cero, cuántas son menores a cero, y cuántas son mayores a cero.
+
+![img](/imgs/55.png)
+- - -
+>56.-Una compañía fabrica focos de colores (verdes, blancos y rojos). Se
+desea contabilizar, de un lote de N focos, el número de focos de cada color
+que hay en existencia.
+
+![img](/imgs/56.png)
+- - -
+>57.-Se requiere un DFD para determinar cuánto ahorrará en pesos una
+persona diariamente, y en un año, si ahorra 3¢ el primero de enero, 9¢ el dos
+de enero, 27¢ el 3 de enero y así sucesivamente todo el año
+
+![img](/imgs/57.png)
+- - -
+>58.-Realice el algoritmo para determinar cuánto pagará una persona que
+adquiere N artículos, los cuales están de promoción. Considere que si su
+precio es mayor o igual a $200 se le aplica un descuento de 15%, y si su
+precio es mayor a $100 pero menor a $200, el descuento es de 12%; de lo
+contrario, sólo se le aplica 10%. Se debe saber cuál es el costo y el
+descuento que tendrá cada uno de los artículos y finalmente cuánto se
+pagará por todos los artículos obtenidos.
+
+![img](/imgs/58.png)
+- - -
+>59.- Un cliente de un banco deposita equis cantidad de pesos cada mes en
+una cuenta de ahorros. La cuenta percibe un interés fijo durante un año de
+10 % anual. Realice un DFD para determinar el total de la inversión final de cada año en los próximos N
+años.
+
+![img](/imgs/59.png)
+- - -
+>60.- Los directivos de equis escuela requieren determinar cuál es la edad
+promedio de cada uno de los M salones y cuál es la edad promedio de toda
+la escuela. Realice un DFD para determinar estos promedios.
+
+![img](/imgs/60.png)
+- - -
+>61.-Imprimir diez veces la serie de números del 1 al 10.
+
+![img](/imgs/61.png)
+- - -
+>62.-Imprimir, contar y sumar los múltiplos de 2 que hay entre una serie de
+números, tal que el segundo sea mayor o igual que el primero.
+
+![img](/imgs/62.png)
+- - -
+>63.-Hacer un DFD que cuente las veces que aparece una determinada letra
+en una frase que introduciremos por teclado.
+
+![img](/imgs/63.png)
+- - -
+>64.-Hacer un DFD que simule el funcionamiento de un reloj digital y que permita
+ponerlo en hora.
+
+![img](/imgs/64.png)
+- - -
+>65.-Calcular el factorial de un número, mediante subprogramas.
+
+![img](/imgs/65.png)
+- - -
+>66.-Hacer un programa que calcule independientemente la suma de los pares
+y los impares de los números entre 1 y 1000, utilizando un switch.
+
+![img](/imgs/66.png)
+- - -
+>67.-Introducir una frase por teclado. Imprimirla cinco veces en filas
+consecutivas, pero cada impresión ir desplazada cuatro columnas hacia la
+derecha.
+
+![img](/imgs/67.png)
+- - -
+>68.-Hacer un DFD que imprima los números del 0 al 100, controlando las filas y
+las columnas.
+
+![img](/imgs/68.png)
+- - -
+>69.-Comprobar si un número mayor o igual que la unidad es primo.
+
+![img](/imgs/69.png)
+- - -
+>70.-Introducir un número menor de 5000 y pasarlo a número romano.
+
+![img](/imgs/70.png)
+- - -
+>71.-Introducir una frase por teclado. Imprimirla en el centro de la pantalla.
+
+![img](/imgs/71.png)
+- - -
+>72.-Realizar la tabla de multiplicar de un numero entre 0 y 10.
+
+![img](/imgs/72.png)
+- - -
+>73.-Simular el lanzamiento de una moneda al aire e imprimir si ha salido cara
+o cruz.
+
+![img](/imgs/73.png)
+- - -
+>74.-Simular cien tiradas de dos dados y contar las veces que entre los dos
+suman 10.
+
+![img](/imgs/74.png)
+- - -
+>75.-Simular una carrera de dos caballos si cada uno tiene igual probabilidad
+de ganar.
+
+![img](/imgs/75.png)
+- - -
+>76.-Introducir dos números por teclado y mediante un menú, calcule su suma, su
+resta, su multiplicación o su división.
+
+![img](/imgs/76.png)
+- - -
+>77.-Hacer un programa que nos permita introducir un numero por teclado y
+sobre él se realicen las siguientes operaciones: comprobar si es primo, hallar
+su factorial o imprimir su tabla de multiplicar.
+
+![img](/imgs/77.png)
+- - -
+>78.- Calculadora Suma, Resta: Multiplicación y División.
+
+![img](/imgs/78.png)
+- - -
+>79.-Crear un array unidimensional de 20 elementos con nombres de
+personas. Visualizar los elementos de la lista debiendo ir cada uno en una
+fila distinta.
+
+![img](/imgs/79.png)
+- - -
+>80.-Hacer un programa que lea las calificaciones de un alumno en 10
+asignaturas, las almacene en un vector y calcule e imprima su media.
+
+![img](/imgs/80.png)
+- - -
+>81.-Usando el segundo ejemplo, hacer un programa que busque una nota en
+el vector.
+
+![img](/imgs/81.png)
+- - -
+>82.- Cierta empresa requiere controlar la existencia de diez productos, los
+cuales se almacenan en un vector A, mientras que los pedidos de los
+clientes de estos productos se almacenan en un vector B. Se requiere
+generar un tercer vector C con base en los anteriores que represente lo que
+se requiere comprar para mantener el stock de inventario, para esto se
+considera lo siguiente: si los valores correspondientes de los vectores A y B
+son iguales se almacena este mismo valor, si el valor de B es mayor que el
+de A se almacena el doble de la diferencia entre B y A, si se da el caso de
+que A es mayor que B, se almacena B, que indica lo que se requiere comprar
+para mantener el stock de inventario. La tabla 5.4 muestra las variables
+requeridas para representar el algoritmo de solución de este problema.
+
+![img](/imgs/82.png)
+- - -
+>83.-Generar una matriz de 4 filas y 5 columnas con números aleatorios entre
+1 y 100, e imprimirla.
+
+![img](/imgs/83.png)
+- - -
+>84.-Generar una matriz de 4 filas y 5 columnas con números aleatorios entre
+1 y 100, y hacer su matriz transpuesta.
+
+![img](/imgs/84.png)
+- - -
+>85.-Cargar en una matriz las notas de los alumnos de un colegio en función
+del número de cursos (filas) y del número de alumnos por curso (columnas).
+
+![img](/imgs/85.png)
+- - -
+>86.-Ordenar una matriz de M filas y N columnas por la primera columna
+utilizando el método SHELL (por inserción).
+
+![img](/imgs/86.png)
 
 
