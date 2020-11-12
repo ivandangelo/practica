@@ -216,4 +216,55 @@ minuto.
 
 ![img](/imgs/40.png)
 - - -
+>41.- Realice un DFD para determinar cuánto se debe pagar por equis cantidad de
+lápices considerando que si son 1000 o más el costo es de 0,90$; de lo contrario,
+el precio es de 1,10$.
+
+![img](/imgs/41.png)
+- - -
+>42.- Almacenes “El harapiento distinguido” tiene una promoción: a todos los
+trajes que tienen un precio superior a $8000,00 se les aplicará un descuento de
+15 %, a todos los demás se les aplicará sólo 8 %.
+
+![img](/imgs/42.png)
+- - -
+>43.- "La langosta ahumada" es una empresa dedicada a ofrecer banquetes; sus
+tarifas son las siguientes: el costo de platillo por persona es de $95.00, pero si el
+número de personas es mayor a 200 pero menor o igual a 300, el costo es de
+$85.00. Para más de 300 personas el costo por platillo es de $75.00. Se requiere
+un DFD que ayude a determinar el presupuesto que se debe presentar a los
+clientes que deseen realizar un evento.
+
+![img](/imgs/43.png)
+- - -
+>44.- La asociación de vinicultores tiene como política fijar un precio inicial al kilo
+de uva, la cual se clasifica en tipos A y B, y además en tamaños 1 y 2. Cuando se
+realiza la venta del producto, ésta es de un solo tipo y tamaño, se requiere
+determinar cuánto recibirá un productor por la uva que entrega en un embarque,
+considerando lo siguiente: si es de tipo A, se le cargan 0,20 al precio inicial
+cuando es de tamaño 1; y 0,30 si es de tamaño 2. Si es de tipo B, se rebajan 0,30
+cuando es de tamaño 1, y 0,50 cuando es de tamaño 2. Realice un algoritmo para
+determinar la ganancia obtenida y represéntelo mediante diagrama de flujo,
+pseudocódigo y diagrama N/S. Realizando un análisis de los datos que se
+requieren y de los resultados que se deben obtener, se puede determinar que
+son los que se muestran en la tabla 3.7
+
+![img](/imgs/44.png)
+- - -
+>45.- El director de una escuela está organizando un viaje de estudios, y requiere
+determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la
+compañía de viajes por el servicio. La forma de cobrar es la siguiente: si son 100
+alumnos o más, el costo por cada alumno es de $65.00; de 50 a 99 alumnos, el
+costo es de $70.00, de 30 a 49, de $95.00, y si son menos de 30, el costo de la
+renta del autobús es de $4000.00, sin importar el número de alumnos. Realice un
+DFD que permita determinar el pago a la compañía de autobuses y lo que debe
+pagar cada alumno por el viaje. Al realizar un análisis del problema, se puede
+deducir que las variables que se requieren como datos son el número de
+alumnos (NA), con lo que se puede calcular el pago por alumno (PA) y el costo
+total del viaje (TOT). Las características de estas variables se muestran en la
+tabla 3.8.
+
+![img](/imgs/45.png)
+- - -
+
 
